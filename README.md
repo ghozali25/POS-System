@@ -8,7 +8,7 @@
 
 # Local Installation
 
-- run `` git clone https://github.com/FahimAnzamDip/triangle-pos.git ``
+- run `` git clone https://github.com/ghozali25/POS-System.git ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
@@ -45,6 +45,3 @@
 - **Unit Settings**
 - **System Settings**
 - **Reports**
-
-# License
-**[Creative Commons Attribution 4.0	cc-by-4.0](https://creativecommons.org/licenses/by/4.0/)**
